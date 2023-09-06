@@ -1,0 +1,6 @@
+framework module Pods_BinaryRearrange {
+  umbrella header "Pods-BinaryRearrange-umbrella.h"
+
+  export *
+  module * { export * }
+}

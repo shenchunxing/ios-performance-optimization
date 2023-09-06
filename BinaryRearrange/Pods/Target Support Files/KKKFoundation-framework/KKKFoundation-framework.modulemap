@@ -1,0 +1,6 @@
+framework module KKKFoundation {
+  umbrella header "KKKFoundation-framework-umbrella.h"
+
+  export *
+  module * { export * }
+}
